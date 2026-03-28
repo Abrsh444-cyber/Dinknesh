@@ -28,7 +28,7 @@ function generateResponse(userMessage: string): string {	function generateRespon
 - **አርክቲክቸር አማካሪ** – ዲዛይን ፓተርንስ፣ ስርዓት ዲዛይንና ምርጥ አሰራሮች
 - **ተግባር እቅድ** – ፕሮጀክቶችን ወደ ሊታወቁ ተግባራት መከፋፈል
 - **ኮድ ትንተካክል** – በፍጥነት፣ ደህንነትና ጥራት ላይ ግብዓቶች
-What would you like to work on today?`;	ዛም ዛም አሁን ምን ላሳርርልዎት?`;
+What would you like to work on today?`;	 አሁን ምን LIRDAWOT?`;
   }	  }
  	 
   if (lowerMsg.includes("react") && (lowerMsg.includes("hook") || lowerMsg.includes("usestate"))) {	  if (lowerMsg.includes("react") && (lowerMsg.includes("hook") || lowerMsg.includes("usestate"))) {
